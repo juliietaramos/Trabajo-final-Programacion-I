@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1490112218 source:d:\trabajo practico final\trabajopracticofinal\pila.c
+	"pila.h"
+
+1490112218 d:\trabajo practico final\trabajopracticofinal\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1719239446 source:d:\trabajo practico final\trabajopracticofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pila.h"
+
+1719239672 source:f:\trabajo practico final\trabajopracticofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pila.h"
+
+1490112218 f:\trabajo practico final\trabajopracticofinal\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:f:\trabajo practico final\trabajopracticofinal\pila.c
+	"pila.h"
+
+1719239672 source:c:\users\julie\onedrive - utn frmdp\escritorio\utn\programacion i\trabajo practico final\trabajopracticofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pila.h"
+
+1490112218 c:\users\julie\onedrive - utn frmdp\escritorio\utn\programacion i\trabajo practico final\trabajopracticofinal\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:c:\users\julie\onedrive - utn frmdp\escritorio\utn\programacion i\trabajo practico final\trabajopracticofinal\pila.c
+	"pila.h"
+
